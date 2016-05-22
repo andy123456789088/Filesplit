@@ -1,0 +1,8 @@
+F:\Andy's Dokumente\Filesplit\Filesplit\bin\Debug\Filesplit.exe
+F:\Andy's Dokumente\Filesplit\Filesplit\bin\Debug\Filesplit.pdb
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.csprojResolveAssemblyReference.cache
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.frmMain.resources
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.Properties.Resources.resources
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.csproj.GenerateResource.Cache
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.exe
+F:\Andy's Dokumente\Filesplit\Filesplit\obj\Debug\Filesplit.pdb
