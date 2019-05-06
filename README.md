@@ -7,7 +7,7 @@ you get 17 files.
 
 #### Screenshot
 
-![shot](http://seite.bplaced.net/Git/Images/Shot.png)
+![shot](https://code-a-software.net/github/images/filesplit.png)
 
 #### Usage in your code
 This class doesn't existing in a dll. You have to copy this class to your project if you want
